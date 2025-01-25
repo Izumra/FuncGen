@@ -1,10 +1,10 @@
-# FuncGen
+# FuncGen :sloth:
 Function generator for Swift programming language writin on pure Go
 ## Description
 This project may be useful for rowers which rovs on whichever galley for fast generating simple stump functions on the **Swift** programming language and inserting it for making up uniquess at the code 
 ## Usage
 You can use it whatever you want. For generating functions manually by using cli with specified flags which definition provided below. Or you can use my package by importing it and use in your solutions.
-### Examples
+### Examples :otter:
 > [!NOTE]
 > These examples was generated with standart values of CLI flags
 <details>
@@ -147,7 +147,7 @@ You can use it whatever you want. For generating functions manually by using cli
 
 </details>
 
-### CLI
+### CLI :hammer_and_wrench:
 CLI for defferent platform presented in the folder **build**
 
 There is presented description for each flag that would be needed for working with CLI with specified default values
