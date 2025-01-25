@@ -149,6 +149,7 @@ You can use it whatever you want. For generating functions manually by using cli
 
 ### CLI
 CLI for defferent platform presented in the folder **build**
+
 There is presented description for each flag that would be needed for working with CLI with specified default values
 ```
 $ ./build/linux/swiftgenerator -h
@@ -167,7 +168,8 @@ Usage of ./build/linux/swiftgenerator:
         Количество операций над переменными и элементами коллекций в сгенерированной функции (default 20)
   -maxConditionsPerFunc uint
         Max count of conditions with perems that would be presented in the generated function.
-        -------        Максимальное количество сгенерированных условий с переменными в сгенерированной функции (default 5)
+        -------       
+        Максимальное количество сгенерированных условий с переменными в сгенерированной функции (default 5)
   -maxCyclesPerFunc uint
         Max count of the cycles that would be presented in the generated function.
         -------
