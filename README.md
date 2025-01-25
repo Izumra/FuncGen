@@ -8,7 +8,7 @@ You can use it whatever you want. For generating functions manually by using cli
 > [!NOTE]
 > These examples was generated with standart values of CLI flags
 <details>
-<summary>**Example 1**</summary>
+<summary><bold>Example 1</bold></summary>
 
 ```
  func HialeahMonkeyStack ()  -> Void {
@@ -79,7 +79,7 @@ You can use it whatever you want. For generating functions manually by using cli
 </details>
 
 <details>
-<summary>**Example 2**</summary>
+<summary><bold>Example 2</bold></summary>
 
 ```
  func SanFranciscoArmadilloSmell (_ besidesWhose: Int8?, _ downThere: Int8?) -> Void {
@@ -146,6 +146,7 @@ You can use it whatever you want. For generating functions manually by using cli
 ```
 
 </details>
+
 ### CLI
 CLI for defferent platform presented in the folder **build**
 There is presented description for each flag that would be needed for working with CLI with specified default values
